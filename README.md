@@ -1,1 +1,3 @@
-# algorithm_TIL
+## 👨🏻‍💻 algorithm_TIL 👨🏻‍💻
+---
+진호의 알고리즘 공부 기록 저장소📦
